@@ -75,6 +75,7 @@ html{
     font-size: 23px;
     cursor: pointer;
     display: none;
+    z-index: 2000;
 }
 /*
 Home Section starts
